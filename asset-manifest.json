@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cea83a5b.css",
+    "main.js": "./static/js/main.1ede4118.js",
+    "static/js/415.28200db5.chunk.js": "./static/js/415.28200db5.chunk.js",
+    "static/media/icomoon.woff2": "./static/media/icomoon.536087723585cc76b849.woff2",
+    "static/media/start_chat.svg": "./static/media/start_chat.dcd2d18fce92465ca860eaebf5c4d373.svg",
+    "static/media/msg-tip.mp3": "./static/media/msg-tip.ce0a9b15138ef1f5afa2.mp3",
+    "static/media/chat_bg.svg": "./static/media/chat_bg.4dcf5cd9721aaf82f757ddef0ed99d3b.svg",
+    "static/media/func_face_normal.svg": "./static/media/func_face_normal.41b2afb924a1472bd69a22103bdc0a4f.svg",
+    "static/media/func_upload_image.svg": "./static/media/func_upload_image.ea751353ba17f5d5a49161fffc546e3c.svg",
+    "static/media/func_mention_normal.svg": "./static/media/func_mention_normal.252c9607ddcf28f931f2692b430b8d30.svg",
+    "static/media/ContactsTab.svg": "./static/media/ContactsTab.6e667a1114808fa9bc084108534e9075.svg",
+    "static/media/ContactsTabSelected.svg": "./static/media/ContactsTabSelected.f287e3d6cf1cd5e97a0bba41079993ed.svg",
+    "static/media/HomeTab.svg": "./static/media/HomeTab.08089b01b652d089e153ec15d464def5.svg",
+    "static/media/HomeTabSelected.svg": "./static/media/HomeTabSelected.5f3bb66284f11441f8e9f455486bd3ed.svg",
+    "static/media/func_screenshot.svg": "./static/media/func_screenshot.2bbb43d736421df939ed75072a74c7af.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cea83a5b.css",
+    "static/js/main.1ede4118.js"
+  ]
+}
